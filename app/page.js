@@ -149,7 +149,7 @@ export default function PortfolioHugoDoVale() {
         </div>
       </section>
 
-      <section id="sobre-mi" className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
+      <section id="sobre-mi" className="scroll-mt-24 mx-auto max-w-7xl px-6 py-16 lg:px-8">
         <div className="grid gap-10 lg:grid-cols-[0.7fr_1.3fr]">
           <div>
             <p className="text-sm font-medium tracking-[0.25em] text-zinc-500 uppercase">Sobre mí</p>
@@ -342,7 +342,7 @@ export default function PortfolioHugoDoVale() {
         </div>
       </section>
 
-      <section id="formacion" className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
+      <section id="formacion" className="scroll-mt-24 mx-auto max-w-7xl px-6 py-16 lg:px-8">
         <div className="grid gap-6 lg:grid-cols-[0.9fr_1.1fr]">
           <div>
             <p className="text-sm font-medium tracking-[0.25em] text-zinc-500 uppercase">Formación</p>
