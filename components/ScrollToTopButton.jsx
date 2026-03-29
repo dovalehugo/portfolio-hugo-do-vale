@@ -27,7 +27,7 @@ export default function ScrollToTopButton() {
     <button
       onClick={scrollToTop}
       aria-label="Volver arriba"
-      className="fixed bottom-6 right-6 z-50 rounded-full bg-white/10 px-4 py-3 text-white shadow-lg backdrop-blur-md transition hover:bg-white/20"
+      className="fixed bottom-6 left-1/2 z-50 -translate-x-1/2 rounded-full border border-white/15 bg-zinc-900/85 px-4 py-3 text-lg text-white shadow-xl backdrop-blur-md transition hover:bg-zinc-800"
     >
       ↑
     </button>
