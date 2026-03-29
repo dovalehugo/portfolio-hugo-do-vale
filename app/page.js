@@ -423,6 +423,7 @@ export default function PortfolioHugoDoVale() {
           </div>
         </div>
       </section>
+      <ScrollToTopButton />
     </main>
   );
 }
