@@ -1,4 +1,5 @@
 import Image from "next/image";
+import ScrollToTopButton from "@/components/ScrollToTopButton";
 
 export default function PortfolioHugoDoVale() {
   const skills = {
